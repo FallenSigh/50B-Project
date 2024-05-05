@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.cjson": "jsonc",
+            "*.wxss": "css",
+            "*.wxs": "javascript",
+            "*.h": "cpp",
+            "stdbool.h": "c",
+            "inttypes.h": "c",
+            "stdint.h": "c",
+            "oled_data.h": "c",
+            "math.h": "c",
+            "stm32f10x.h": "c",
+            "__split_buffer": "cpp",
+            "deque": "cpp",
+            "string": "cpp",
+            "vector": "cpp"
+        }
+    },
+    "extensions": {}
+}
